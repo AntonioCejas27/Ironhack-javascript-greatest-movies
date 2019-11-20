@@ -13,3 +13,26 @@
 // Iteration 6: Time Format - Turn duration of the movies from hours to minutes
 
 // BONUS Iteration: Best yearly rate average - Best yearly rate average
+
+movies.sort ((a, b) =>{
+    return b-a;
+  });
+
+  console.log(movies)
+}
+
+function howManyMovies(anArray){
+    if(genre == "drama" && director == "steven speilberg") {
+        return
+    }
+}
+
+function howManyMovies(anArray) {
+    anArray.filter( (eachMovie)=>{
+        return 
+    })
+}
+
+
+
+
